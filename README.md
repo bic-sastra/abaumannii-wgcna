@@ -15,5 +15,5 @@ Access the interactive web app at: [https://akila56.shinyapps.io/abaumannii-wgcn
 Rayala R, Ramu A, Ramakrishnan V. (2025). WGCNA Analysis Reveals Co-expression of Virulence and Resistance Genes in Doripenem-Susceptible Acinetobacter baumannii. [Journal Name], [Volume], [Pages].
 
 ## Contact
-Vigneshwar Ramakrishnan - vignesh@scbt.sastra.edu
+Vigneshwar Ramakrishnan - vignesh@scbt.sastra.edu, 
 Akilandeswari Ramu - akilaramu1998@gmail.com
