@@ -5,7 +5,7 @@
 This Shiny app accompanies the manuscript: "Integrative Transcriptomic and Co-expression Network Analysis Reveals Virulence-Resistance Crosstalk in _Acinetobacter baumannii_ under Doripenem Stress"
 
 ## Live App
-Access the interactive web app at: [https://akila56.shinyapps.io/abaumannii-wgcna-explorer/]
+Access the interactive web app at: [https://akila56.shinyapps.io/AbcoExpNet/]
 
 ## Files
 - `app.R` - Main Shiny application code
